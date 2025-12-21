@@ -22,11 +22,21 @@
 
 ### 🌐 Socials
 <p align="left">
-  <a href="https://instagram.com/yourboy_prats"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/prats-dhans"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
-  <a href="https://pinterest.com/pratzyhere"><img src="https://img.shields.io/badge/Pinterest-E60023?logo=pinterest&logoColor=white"/></a>
-  <a href="https://x.com/yourboy_prats"><img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white"/></a>
-  <a href="mailto:selftrust.6886@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/yourboy_prats">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/prats-dhans">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://pinterest.com/pratzyhere">
+    <img src="https://img.shields.io/badge/Pinterest-E60023?logo=pinterest&logoColor=white"/>
+  </a>
+  <a href="https://x.com/yourboy_prats">
+    <img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white"/>
+  </a>
+  <a href="mailto:selftrust.6886@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -52,13 +62,20 @@
 
 ## 📊 GitHub Stats
 
-<!-- Animated Contributions Badge -->
 <p align="center">
   <svg width="180" height="180" viewBox="0 0 180 180" xmlns="http://www.w3.org/2000/svg">
-    <!-- Background ring -->
-    <circle cx="90" cy="90" r="70" stroke="#1f2937" stroke-width="12" fill="none"/>
     
-    <!-- Animated ring -->
+    <!-- Background ring -->
+    <circle
+      cx="90"
+      cy="90"
+      r="70"
+      stroke="#1f2937"
+      stroke-width="12"
+      fill="none"
+    />
+
+    <!-- Animated progress ring -->
     <circle
       cx="90"
       cy="90"
@@ -74,12 +91,30 @@
         from="440"
         to="120"
         dur="1.6s"
-        fill="freeze"/>
+        fill="freeze" />
     </circle>
 
-    <!-- Text -->
-    <text x="90" y="82" text-anchor="middle" fill="#ffffff" font-size="34" font-weight="bold">490+</text>
-    <text x="90" y="108" text-anchor="middle" fill="#9ca3af" font-size="14">Contributions</text>
+    <!-- Number -->
+    <text
+      x="90"
+      y="82"
+      text-anchor="middle"
+      fill="#ffffff"
+      font-size="34"
+      font-weight="bold">
+      490+
+    </text>
+
+    <!-- Label -->
+    <text
+      x="90"
+      y="108"
+      text-anchor="middle"
+      fill="#9ca3af"
+      font-size="14">
+      Contributions
+    </text>
+
   </svg>
 </p>
 
