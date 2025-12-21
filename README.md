@@ -21,28 +21,18 @@
 ---
 
 ### 🌐 Socials
-<p align="left">
-  <a href="https://instagram.com/yourboy_prats">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/prats-dhans">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://pinterest.com/pratzyhere">
-    <img src="https://img.shields.io/badge/Pinterest-E60023?logo=pinterest&logoColor=white"/>
-  </a>
-  <a href="https://x.com/yourboy_prats">
-    <img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white"/>
-  </a>
-  <a href="mailto:selftrust.6886@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-  </a>
+<p>
+  <a href="https://instagram.com/yourboy_prats"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/prats-dhans"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
+  <a href="https://pinterest.com/pratzyhere"><img src="https://img.shields.io/badge/Pinterest-E60023?logo=pinterest&logoColor=white"/></a>
+  <a href="https://x.com/yourboy_prats"><img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white"/></a>
+  <a href="mailto:selftrust.6886@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 ### 💻 Tech Stack
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E"/>
@@ -63,59 +53,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <svg width="180" height="180" viewBox="0 0 180 180" xmlns="http://www.w3.org/2000/svg">
-    
-    <!-- Background ring -->
-    <circle
-      cx="90"
-      cy="90"
-      r="70"
-      stroke="#1f2937"
-      stroke-width="12"
-      fill="none"
-    />
-
-    <!-- Animated progress ring -->
-    <circle
-      cx="90"
-      cy="90"
-      r="70"
-      stroke="#f59e0b"
-      stroke-width="12"
-      fill="none"
-      stroke-linecap="round"
-      stroke-dasharray="440"
-      stroke-dashoffset="440">
-      <animate
-        attributeName="stroke-dashoffset"
-        from="440"
-        to="120"
-        dur="1.6s"
-        fill="freeze" />
-    </circle>
-
-    <!-- Number -->
-    <text
-      x="90"
-      y="82"
-      text-anchor="middle"
-      fill="#ffffff"
-      font-size="34"
-      font-weight="bold">
-      490+
-    </text>
-
-    <!-- Label -->
-    <text
-      x="90"
-      y="108"
-      text-anchor="middle"
-      fill="#9ca3af"
-      font-size="14">
-      Contributions
-    </text>
-
-  </svg>
+  <img
+    src="data:image/svg+xml;utf8,
+<svg xmlns='http://www.w3.org/2000/svg' width='180' height='180' viewBox='0 0 180 180'>
+  <circle cx='90' cy='90' r='70' stroke='%231f2937' stroke-width='12' fill='none'/>
+  <circle cx='90' cy='90' r='70' stroke='%23f59e0b' stroke-width='12' fill='none'
+    stroke-linecap='round' stroke-dasharray='440' stroke-dashoffset='440'>
+    <animate attributeName='stroke-dashoffset' from='440' to='120' dur='1.6s' fill='freeze'/>
+  </circle>
+  <text x='90' y='82' text-anchor='middle' fill='%23ffffff' font-size='34' font-weight='bold'>490+</text>
+  <text x='90' y='108' text-anchor='middle' fill='%239ca3af' font-size='14'>Contributions</text>
+</svg>"
+  />
 </p>
 
 <p align="center">
@@ -123,11 +72,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peterish8&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=peterish8&theme=dark&include_all_commits=true&count_private=true"/>
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=peterish8&theme=dark&hide_border=false"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=peterish8&theme=dark"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterish8&theme=dark&hide_border=false&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterish8&theme=dark&layout=compact"/>
 </p>
 
 ---
