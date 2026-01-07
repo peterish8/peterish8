@@ -214,6 +214,16 @@
   </tr>
 </table>
 
+---
+### ✍️ Random Dev Quote
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+<hr>
+<p align="center" style="color:#94a3b8; font-size:14px;">
+  🚀 Built by <strong>Prathick</strong> • Designing first, coding next
+</p>
 
 
