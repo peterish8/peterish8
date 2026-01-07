@@ -10,24 +10,25 @@
   <img src="https://komarev.com/ghpvc/?username=peterish8&label=Profile%20Views&color=38bdf8&style=flat" />
 </p>
 
+<hr>
 
+<!-- ================= ABOUT ME ================= -->
+<h2 align="center">🚀 About Me (One-Liners)</h2>
 
+<p align="center">
+  🛠 <b>Working on:</b> React + TypeScript • UI Components • Poll App<br><br>
+  🤝 <b>Open to:</b> Frontend projects • SaaS ideas • UI/UX MVPs<br><br>
+  🌱 <b>Learning:</b> Advanced JS • TS patterns • Clean React architecture<br><br>
+  💬 <b>Ask me about:</b> React • UI systems • Gamification<br><br>
+  ⚡ <b>Fun fact:</b> I redesign more than I release 😄
+</p>
 
----
+<hr>
 
-## 🚀 About Me (One-Liners)
+<!-- ================= CONNECT ================= -->
+<h2 align="center">🌐 Connect With Me</h2>
 
-- 🛠 **Working on:** React + TypeScript • UI Components • Poll App  
-- 🤝 **Open to:** Frontend projects • SaaS ideas • UI/UX MVPs  
-- 🌱 **Learning:** Advanced JS • TS patterns • Clean React architecture  
-- 💬 **Ask me about:** React • UI systems • Gamification  
-- ⚡ **Fun fact:** I redesign more than I release 😄  
-
----
-
-<h2>🌐 Connect With Me</h2>
-
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://linkedin.com/in/prats-dhans">
@@ -57,114 +58,48 @@
   </tr>
 </table>
 
+<hr>
 
+<!-- ================= TECH STACK ================= -->
+<h2 align="center">💻 Tech Stack</h2>
 
----
-
-<h2>💻 Tech Stack</h2>
-
-<table>
-  <!-- Row 1 -->
+<table align="center">
   <tr>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="https://skillicons.dev/icons?i=html" width="48"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="https://skillicons.dev/icons?i=css" width="48"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://skillicons.dev/icons?i=js" width="48"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=ts" width="48"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://react.dev/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=react" width="48"/>
-      </a>
-    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="48"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="48"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="48"/></td>
   </tr>
-
-  <!-- Row 2 -->
   <tr>
-    <td align="center">
-      <a href="https://nextjs.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.python.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=python" width="48"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.postgresql.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://firebase.google.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48"/>
-      </a>
-    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="48"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="48"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="48"/></td>
   </tr>
-
-  <!-- Row 3 -->
   <tr>
-    <td align="center">
-      <a href="https://vercel.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=vercel" width="48"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.docker.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=docker" width="48"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://git-scm.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=git" width="48"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=github" width="48"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.kernel.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linux" width="48"/>
-      </a>
-    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="48"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48"/></td>
   </tr>
 </table>
 
+<hr>
 
+<!-- ================= GITHUB ACTIVITY ================= -->
+<h2 align="center">📊 GitHub Activity</h2>
 
----
-<h2>📊 GitHub Activity</h2>
-
-<table>
+<table align="center">
   <tr>
     <td>
-      <ul>
-        <li>🧠 Active contributor with consistent commits</li>
-        <li>🔁 Regularly building & refining projects</li>
-        <li>🚀 Focused on real-world, product-driven development</li>
-      </ul>
+      <p align="center">
+        🧠 Active contributor with consistent commits<br>
+        🔁 Regularly building & refining projects<br>
+        🚀 Focused on real-world, product-driven development
+      </p>
     </td>
     <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=github" width="72">
@@ -172,16 +107,18 @@
   </tr>
 </table>
 
----
-### ✍️ Random Dev Quote
+<hr>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!-- ================= QUOTE ================= -->
+<h3 align="center">✍️ Random Dev Quote</h3>
 
-
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 <hr>
+
+<!-- ================= FOOTER ================= -->
 <p align="center" style="color:#94a3b8; font-size:14px;">
   🚀 Built by <strong>Prathick</strong> • Designing first, coding next
 </p>
-
-
