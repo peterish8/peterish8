@@ -1,6 +1,6 @@
-<!-- ================= ANIMATED HEADER ================= -->
+<!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B+I'm+Peter;Frontend-Focused+Full+Stack+Developer;UI+Builder+%7C+AI-Curious" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Peter;Frontend-Focused+Full+Stack+Developer;UI+Builder+%7C+AI-Curious" />
 </p>
 
 <p align="center">
@@ -9,20 +9,19 @@
 
 ---
 
-## 🚀 About Me (Quick Snapshot)
+## 🚀 About Me (One-Liners)
 
 - 🛠 **Working on:** React + TypeScript • UI Components • Poll App  
-- 🤝 **Open to:** Frontend projects • Small SaaS ideas • UI/UX MVPs  
+- 🤝 **Open to:** Frontend projects • SaaS ideas • UI/UX MVPs  
 - 🌱 **Learning:** Advanced JS • TS patterns • Clean React architecture  
-- 💬 **Ask me about:** React • UI systems • Gamification • Student apps  
-- 🙋‍♂️ **Need help with:** Animations • Performance • Backend best practices  
-- ⚡ **Fun fact:** I redesign more than I release — perfectionist mode ON 😄  
+- 💬 **Ask me about:** React • UI systems • Gamification  
+- ⚡ **Fun fact:** I redesign more than I release 😄  
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p>
   <a href="https://linkedin.com/in/prats-dhans">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
@@ -58,16 +57,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Manual & Stable)
 
+<!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=peterish8&show_icons=true&theme=tokyonight&hide_border=false" />
 </p>
 
+<!-- Streak Stats -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=peterish8&theme=tokyonight&hide_border=false" />
 </p>
 
+<!-- Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterish8&layout=compact&theme=tokyonight&hide_border=false" />
 </p>
