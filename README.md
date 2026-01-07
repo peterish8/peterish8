@@ -1,11 +1,33 @@
 <!-- ================= HEADER ================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Peter;Frontend-Focused+Full+Stack+Developer;UI+Builder+%7C+AI-Curious" />
-</p>
+<!-- Glassmorphism Header -->
+<div align="center"
+     style="
+       margin: 24px auto;
+       padding: 28px 24px;
+       max-width: 720px;
+       border-radius: 16px;
+       background: rgba(255, 255, 255, 0.06);
+       backdrop-filter: blur(12px);
+       -webkit-backdrop-filter: blur(12px);
+       border: 1px solid rgba(255, 255, 255, 0.12);
+     ">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=peterish8&label=Profile%20Views&color=38bdf8&style=flat" />
-</p>
+  <!-- Animated Name -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B+I'm+Prathick;Frontend-Focused+Full+Stack+Developer;UI+Builder+%7C+AI-Curious"
+    alt="Typing Header"
+  />
+
+  <br/><br/>
+
+  <!-- Profile Views -->
+  <img
+    src="https://komarev.com/ghpvc/?username=peterish8&label=Profile%20Views&color=38bdf8&style=flat"
+    alt="Profile Views"
+  />
+
+</div>
+
 
 ---
 
