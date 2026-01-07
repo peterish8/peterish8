@@ -149,12 +149,9 @@
 
 
 ---
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=peterish8&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
-    alt="GitHub Stats"
-  />
+  <img src="https://github.com/peterish8/peterish8/blob/output/github-contribution-grid-snake.svg" />
 </p>
+
