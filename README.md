@@ -1,101 +1,101 @@
-<!-- ====== PROFILE HEADER ====== -->
+<!-- ================= PROFILE INTRO ================= -->
 <h1 align="center">Hi 👋, I'm Peter</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast | Builder</h3>
+<h3 align="center">Frontend-Focused Full Stack Developer • UI Builder • AI-Curious</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=peterish8&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 💫 About Me
 
-- 💻 I build **web apps, platforms, and automation tools**
-- 🚀 Passionate about **AI-powered products & scalable systems**
-- 🎯 Currently focused on **Full Stack + AI integration**
-- 🧩 Love solving **real-world problems with clean UX**
+🛠 **Currently working on**  
+- React + TypeScript projects  
+- Reusable UI components  
+- A Poll App with clean UX & state handling  
 
----
+🤝 **Looking to collaborate on**  
+- Frontend-heavy projects  
+- Small SaaS ideas  
+- UI/UX experiments & product MVPs  
 
-## 🛠 Tech Stack
+🧠 **Currently learning**  
+- Advanced JavaScript concepts  
+- TypeScript patterns  
+- Clean React architecture & performance tuning  
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css" />
-</p>
+💬 **Ask me about**  
+- React & TypeScript  
+- UI design systems  
+- Student performance apps  
+- Gamification ideas & product thinking  
 
-### Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
-</p>
+🙋‍♂️ **Looking for help with**  
+- Smooth animations & micro-interactions  
+- Performance optimization  
+- Backend best practices  
 
-### Databases & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase" />
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,aws" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🔔 NotiFlow  
-**Privacy-first notification intelligence app**  
-- Android | Accessibility API  
-- Distraction analytics & automation  
-🔗 *Repo / Demo link*
+⚡ **Fun fact**  
+- I redesign my apps more than I release them — perfectionist mode ON 😄  
 
 ---
 
-### 📚 StudyMate  
-**AI-powered academic performance platform**  
-- Students, parents & teachers dashboard  
-- Gamification + analytics  
-🔗 *Repo / Demo link*
+## 🌐 Connect With Me
 
----
-
-### 🤖 LumaNote AI  
-**Smart journaling with AI insights**  
-- NLP-powered summaries  
-- Mental clarity & productivity  
-🔗 *Repo / Demo link*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 What I Care About
-
-- ⚡ Performance & scalability
-- 🎨 Clean UI / UX
-- 🔐 Privacy & security
-- 🤝 Open-source collaboration
-
----
-
-## 📫 Connect With Me
-
-<p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<p align="left">
+  <a href="https://linkedin.com/in/prats-dhans">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="https://instagram.com/yourboy_prats">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://x.com/yourboy_prats">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://pinterest.com/pratzyhere">
+    <img src="https://skillicons.dev/icons?i=pinterest" />
+  </a>
+  <a href="mailto:selftrust.6886@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
 ---
 
-⭐ *Check out my repositories — I love building things that matter.*
+## 💻 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,vercel,docker" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,markdown,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=peterish8&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=peterish8&theme=dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterish8&theme=dark&hide_border=false&layout=compact&include_all_commits=true&count_private=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=peterish8&icon=0&color=12" />
+</p>
+
