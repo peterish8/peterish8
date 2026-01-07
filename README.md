@@ -149,9 +149,24 @@
 
 
 ---
-## 📊 GitHub Activity
+<h2>📊 GitHub Activity</h2>
 
-<p align="center">
-  <img src="https://github.com/peterish8/peterish8/blob/output/github-contribution-grid-snake.svg" />
-</p>
+<table>
+  <tr>
+    <!-- Left: Text -->
+    <td>
+      <ul>
+        <li>🧠 Active contributor with consistent commits</li>
+        <li>🔁 Regularly building & refining projects</li>
+        <li>🚀 Focused on real-world, product-driven development</li>
+      </ul>
+    </td>
+
+    <!-- Right: GitHub Logo -->
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=github" width="72" />
+    </td>
+  </tr>
+</table>
+
 
