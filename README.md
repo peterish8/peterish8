@@ -1,24 +1,30 @@
 <!-- ================= HEADER ================= -->
-<!-- Glassmorphism Header -->
+<!-- Dark Gradient Header -->
 <div align="center"
-     style="
-       margin: 24px auto;
-       padding: 28px 24px;
-       max-width: 720px;
-       border-radius: 16px;
-       background: rgba(255, 255, 255, 0.06);
-       backdrop-filter: blur(12px);
-       -webkit-backdrop-filter: blur(12px);
-       border: 1px solid rgba(255, 255, 255, 0.12);
-     ">
+  style="
+    margin: 28px auto;
+    padding: 34px 26px;
+    max-width: 780px;
+    border-radius: 18px;
+    background: linear-gradient(
+      145deg,
+      #0b0f14,
+      #111827,
+      #0b1220
+    );
+    border: 1px solid rgba(255,255,255,0.08);
+    box-shadow:
+      0 12px 32px rgba(0,0,0,0.6),
+      inset 0 1px 0 rgba(255,255,255,0.04);
+  ">
 
-  <!-- Animated Name -->
+  <!-- Animated Title -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B+I'm+Prathick;Frontend-Focused+Full+Stack+Developer;UI+Builder+%7C+AI-Curious"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Prathick;Frontend-Focused+Full+Stack+Developer;UI+Builder+%7C+AI-Curious"
     alt="Typing Header"
   />
 
-  <br/><br/>
+  <br><br>
 
   <!-- Profile Views -->
   <img
@@ -27,6 +33,7 @@
   />
 
 </div>
+
 
 
 ---
