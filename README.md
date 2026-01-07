@@ -153,7 +153,6 @@
 
 <table>
   <tr>
-    <!-- Left: Text -->
     <td>
       <ul>
         <li>🧠 Active contributor with consistent commits</li>
@@ -161,13 +160,12 @@
         <li>🚀 Focused on real-world, product-driven development</li>
       </ul>
     </td>
-
-    <!-- Right: GitHub Logo -->
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=github" width="72" />
+      <img src="https://skillicons.dev/icons?i=github" width="72">
     </td>
   </tr>
 </table>
+
 
 
 
