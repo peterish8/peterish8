@@ -150,27 +150,11 @@
 
 ---
 
-## 📊 GitHub Stats (Manual & Stable)
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peterish8&show_icons=true&theme=tokyonight&hide_border=false" />
-</p>
-
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peterish8&theme=tokyonight&hide_border=false" />
-</p>
-
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterish8&layout=compact&theme=tokyonight&hide_border=false" />
-</p>
-
----
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=peterish8&icon=5&color=38bdf8" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=peterish8&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+    alt="GitHub Stats"
+  />
 </p>
-
-
