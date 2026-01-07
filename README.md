@@ -58,8 +58,8 @@
 <h2>💻 Tech Stack</h2>
 
 <table>
+  <!-- Row 1 -->
   <tr>
-    <!-- Languages / Frontend -->
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
         <img src="https://skillicons.dev/icons?i=html" width="48"/>
@@ -85,15 +85,20 @@
         <img src="https://skillicons.dev/icons?i=react" width="48"/>
       </a>
     </td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr>
+    <td align="center">
+      <a href="https://nextjs.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48"/>
+      </a>
+    </td>
     <td align="center">
       <a href="https://www.python.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=python" width="48"/>
       </a>
     </td>
-  </tr>
-
-  <tr>
-    <!-- Backend / DB / Cloud -->
     <td align="center">
       <a href="https://www.postgresql.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=postgres" width="48"/>
@@ -109,6 +114,10 @@
         <img src="https://skillicons.dev/icons?i=firebase" width="48"/>
       </a>
     </td>
+  </tr>
+
+  <!-- Row 3 -->
+  <tr>
     <td align="center">
       <a href="https://vercel.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=vercel" width="48"/>
@@ -120,15 +129,6 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.kernel.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linux" width="48"/>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <!-- Tools -->
-    <td align="center">
       <a href="https://git-scm.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=git" width="48"/>
       </a>
@@ -139,15 +139,13 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.markdownguide.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=markdown" width="48"/>
+      <a href="https://www.kernel.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linux" width="48"/>
       </a>
     </td>
-    <td></td>
-    <td></td>
-    <td></td>
   </tr>
 </table>
+
 
 
 ---
