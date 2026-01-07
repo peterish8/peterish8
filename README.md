@@ -31,9 +31,12 @@
   <a href="https://x.com/yourboy_prats">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
+
+  <!-- Pinterest (square, same size as skillicons) -->
   <a href="https://pinterest.com/pratzyhere">
-    <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" height="28"/>
+    <img src="https://cdn.simpleicons.org/pinterest/ffffff" width="48" height="48" />
   </a>
+
   <a href="mailto:selftrust.6886@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
