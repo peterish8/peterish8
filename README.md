@@ -21,23 +21,9 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/prats-dhans">
-    <img src="https://skillicons.dev/icons?i=linkedin" style="display:block;" />
-  </a>
-  <a href="https://instagram.com/yourboy_prats">
-    <img src="https://skillicons.dev/icons?i=instagram" style="display:block;" />
-  </a>
-  <a href="https://x.com/yourboy_prats">
-    <img src="https://skillicons.dev/icons?i=twitter" style="display:block;" />
-  </a>
-  <a href="https://pinterest.com/pratzyhere">
-    <img src="https://cdn.simpleicons.org/pinterest/ffffff" width="48" height="48" style="display:block;" />
-  </a>
-  <a href="mailto:selftrust.6886@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" style="display:block;" />
-  </a>
-</p>
+| | | | | |
+|:-:|:-:|:-:|:-:|:-:|
+| <a href="https://linkedin.com/in/prats-dhans"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a> | <a href="https://instagram.com/yourboy_prats"><img src="https://skillicons.dev/icons?i=instagram" width="48"/></a> | <a href="https://x.com/yourboy_prats"><img src="https://skillicons.dev/icons?i=twitter" width="48"/></a> | <a href="https://pinterest.com/pratzyhere"><img src="https://cdn.simpleicons.org/pinterest/ffffff" width="48"/></a> | <a href="mailto:selftrust.6886@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48"/></a> |
 
 
 ---
