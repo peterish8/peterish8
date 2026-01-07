@@ -1,30 +1,48 @@
 <!-- ================= HEADER ================= -->
-<!-- Dark Gradient Header -->
+<!-- Frosted x Startup Header -->
 <div align="center"
   style="
-    margin: 28px auto;
-    padding: 34px 26px;
-    max-width: 780px;
-    border-radius: 18px;
-    background: linear-gradient(
-      145deg,
-      #0b0f14,
-      #111827,
-      #0b1220
-    );
-    border: 1px solid rgba(255,255,255,0.08);
+    margin: 32px auto;
+    padding: 36px 28px;
+    max-width: 800px;
+    border-radius: 20px;
+
+    /* Frosted dark gradient */
+    background:
+      linear-gradient(
+        135deg,
+        rgba(15,23,42,0.95),
+        rgba(30,41,59,0.85),
+        rgba(15,23,42,0.95)
+      );
+
+    /* Startup glow */
     box-shadow:
-      0 12px 32px rgba(0,0,0,0.6),
-      inset 0 1px 0 rgba(255,255,255,0.04);
+      0 16px 40px rgba(0,0,0,0.65),
+      0 0 0 1px rgba(56,189,248,0.15),
+      inset 0 1px 0 rgba(255,255,255,0.05);
+
+    border: 1px solid rgba(148,163,184,0.18);
   ">
 
-  <!-- Animated Title -->
+  <!-- Animated Name -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Prathick;Frontend-Focused+Full+Stack+Developer;UI+Builder+%7C+AI-Curious"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=Hi+%F0%9F%91%8B+I'm+Prathick;Frontend-Focused+Full+Stack+Developer;UI+Builder+%7C+AI-Curious"
     alt="Typing Header"
   />
 
   <br><br>
+
+  <!-- Subtitle -->
+  <div style="
+    color: #94a3b8;
+    font-size: 14px;
+    letter-spacing: 0.3px;
+  ">
+    Building clean UI • Scalable products • Real-world apps
+  </div>
+
+  <br>
 
   <!-- Profile Views -->
   <img
@@ -33,6 +51,7 @@
   />
 
 </div>
+
 
 
 
