@@ -55,19 +55,100 @@
 
 ---
 
-## 💻 Tech Stack
+<h2>💻 Tech Stack</h2>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python" />
-</p>
+<table>
+  <tr>
+    <!-- Languages / Frontend -->
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="https://skillicons.dev/icons?i=html" width="48"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img src="https://skillicons.dev/icons?i=css" width="48"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://skillicons.dev/icons?i=js" width="48"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=ts" width="48"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://react.dev/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=react" width="48"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.python.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=python" width="48"/>
+      </a>
+    </td>
+  </tr>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,vercel,docker" />
-</p>
+  <tr>
+    <!-- Backend / DB / Cloud -->
+    <td align="center">
+      <a href="https://www.postgresql.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://firebase.google.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=firebase" width="48"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://vercel.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=vercel" width="48"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.docker.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=docker" width="48"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.kernel.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linux" width="48"/>
+      </a>
+    </td>
+  </tr>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,markdown,linux" />
-</p>
+  <tr>
+    <!-- Tools -->
+    <td align="center">
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=git" width="48"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=github" width="48"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.markdownguide.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=markdown" width="48"/>
+      </a>
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
 
 ---
 
