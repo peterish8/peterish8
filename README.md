@@ -64,21 +64,23 @@
 <h2 align="center">💻 Tech Stack</h2>
 
 <table align="center">
+  <!-- Row 1 -->
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=js" width="48"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="48"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" width="48"/></td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="48"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=python" width="48"/></td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="48"/></td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="48"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/></td>
@@ -88,6 +90,7 @@
 </table>
 
 <hr>
+
 
 <!-- ================= GITHUB ACTIVITY ================= -->
 <h2 align="center">📊 GitHub Activity</h2>
