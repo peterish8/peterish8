@@ -1,4 +1,3 @@
-<!-- ================= HEADER ================= -->
 <h1 align="center">Hi 👋, I'm Prathick</h1>
 
 <p align="center">
@@ -12,7 +11,6 @@
 
 <hr>
 
-<!-- ================= ABOUT ME ================= -->
 <h2 align="center">🚀 About Me (One-Liners)</h2>
 
 <p align="center">
@@ -25,7 +23,6 @@
 
 <hr>
 
-<!-- ================= CONNECT ================= -->
 <h2 align="center">🌐 Connect With Me</h2>
 
 <table align="center">
@@ -60,11 +57,9 @@
 
 <hr>
 
-<!-- ================= TECH STACK ================= -->
 <h2 align="center">💻 Tech Stack</h2>
 
 <table align="center">
-  <!-- Row 1 -->
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/></td>
@@ -76,7 +71,6 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=python" width="48"/></td>
   </tr>
 
-  <!-- Row 2 -->
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/></td>
@@ -91,8 +85,13 @@
 
 <hr>
 
+<h2 align="center">🐍 My Contribution Snake</h2>
+<p align="center">
+  <img src="https://github.com/peterish8/peterish8/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
-<!-- ================= GITHUB ACTIVITY ================= -->
+<hr>
+
 <h2 align="center">📊 GitHub Activity</h2>
 
 <table align="center">
@@ -112,7 +111,6 @@
 
 <hr>
 
-<!-- ================= QUOTE ================= -->
 <h3 align="center">✍️ Random Dev Quote</h3>
 
 <p align="center">
@@ -121,7 +119,6 @@
 
 <hr>
 
-<!-- ================= FOOTER ================= -->
 <p align="center" style="color:#94a3b8; font-size:14px;">
   🚀 Built by <strong>Prathick</strong> • Designing first, coding next
 </p>
