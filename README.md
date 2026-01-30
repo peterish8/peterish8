@@ -87,11 +87,7 @@
 
 <h2 align="center">🐍 Contribution Game</h2>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peterish8/peterish8/output/github-contribution-grid-snake-dark.svg?v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/peterish8/peterish8/output/github-contribution-grid-snake.svg?v=2" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/peterish8/peterish8/output/github-contribution-grid-snake.svg?v=2" />
-  </picture>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/peterish8/peterish8/output/github-contribution-grid-snake-dark.svg?palette=github-dark&v=3" />
 </p>
 
 <hr>
