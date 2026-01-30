@@ -23,7 +23,13 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00E5FF&color_dots=#161b22,#4b0082,#800080,#ff00ff,#e6e6fa
+            # PALETTE EXPLAINED:
+            # 1. #161b22 = Dark Grey (Empty Box)
+            # 2. #0e4429 = Dark Green (Low contribution)
+            # 3. #006d32 = Medium Green
+            # 4. #26a641 = Bright Green
+            # 5. #39d353 = Neon Green (High contribution)
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#39d353&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
