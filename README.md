@@ -85,29 +85,33 @@
 
 <hr>
 
-<h2 align="center">🐍 My Contribution Snake</h2>
+<h2 align="center">🐍 Contribution Game</h2>
 <p align="center">
-  <img src="https://github.com/peterish8/peterish8/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peterish8/peterish8/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/peterish8/peterish8/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/peterish8/peterish8/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 <hr>
 
 <h2 align="center">📊 GitHub Activity</h2>
 
-<table align="center">
-  <tr>
-    <td>
-      <p align="center">
-        🧠 Active contributor with consistent commits<br>
-        🔁 Regularly building & refining projects<br>
-        🚀 Focused on real-world, product-driven development
-      </p>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=github" width="72">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  </p>
+
+<p align="center">
+  <a href="https://github.com/peterish8">
+    <img src="https://github-readme-stats.vercel.app/api?username=peterish8&show_icons=true&theme=tokyonight&count_private=true" alt="Prathick's GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/peterish8">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=peterish8&bg_color=1a1b27&color=38bdf8&line=38bdf8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+  </a>
+</p>
 
 <hr>
 
