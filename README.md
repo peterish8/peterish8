@@ -99,19 +99,25 @@
 <h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
-  </p>
-
-<p align="center">
-  <a href="https://github.com/peterish8">
-    <img src="https://github-readme-stats.vercel.app/api?username=peterish8&show_icons=true&theme=tokyonight&count_private=true" alt="Prathick's GitHub Stats" />
+  <a href="https://gitroll.io/profile/u2TUGeiZg2kQCmcJzjoShF83FOpG3" target="_blank">
+    <img src="https://gitroll.io/api/badges/profiles/v1/u2TUGeiZg2kQCmcJzjoShF83FOpG3?theme=darkEmerald" alt="GitRoll Profile Badge"/>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/peterish8">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=peterish8&bg_color=1a1b27&color=38bdf8&line=38bdf8&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <p align="center">
+        🧠 Active contributor with consistent commits<br>
+        🔁 Regularly building & refining projects<br>
+        🚀 Focused on real-world, product-driven development
+      </p>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=github" width="72">
+    </td>
+  </tr>
+</table>
 
 <hr>
 
