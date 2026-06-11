@@ -1,0 +1,17 @@
+{
+  "theme": {
+    "primary": "#C15F3C",
+    "light": "#E07A52",
+    "dark": "#9E4A2E",
+    "secondary": "#D4A574",
+    "tertiary": "#B1ADA1",
+    "bg1": "#2B2926",
+    "bg2": "#1A1917",
+    "borderTint": "#3F3C38",
+    "textPrimary": "#F4F3EE",
+    "textMuted": "#B1ADA1",
+    "surface": "#22201D",
+    "mode": "dark"
+  },
+  "name": "Prathick"
+}

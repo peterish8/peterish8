@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/readme/banner.svg" alt="Prathick banner" width="100%"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Prathick</h1>
 
 <p align="center">
@@ -123,6 +127,6 @@
 
 <hr>
 
-<p align="center" style="color:#94a3b8; font-size:14px;">
-  🚀 Built by <strong>Prathick</strong> • Designing first, coding next
+<p align="center">
+  <img src="assets/readme/footer.svg" alt="Prathick footer" width="700"/>
 </p>
