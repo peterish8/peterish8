@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/readme/banner.svg" alt="Prathick banner" width="100%"/>
+  <img src="assets/readme/banner.svg" alt="Prathick Dhanes banner" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Prathick</h1>
@@ -128,5 +128,5 @@
 <hr>
 
 <p align="center">
-  <img src="assets/readme/footer.svg" alt="Prathick footer" width="700"/>
+  <img src="assets/readme/footer.svg" alt="Prathick Dhanes footer" width="700"/>
 </p>
